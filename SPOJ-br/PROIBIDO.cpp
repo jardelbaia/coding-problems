@@ -1,3 +1,6 @@
+/*
+		https://br.spoj.com/problems/PROIBIDO/
+*/
 #include <bits/stdc++.h>
 
 using namespace std;

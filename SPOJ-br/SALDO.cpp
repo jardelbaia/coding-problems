@@ -1,3 +1,6 @@
+/*
+		https://br.spoj.com/problems/SALDO/
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
